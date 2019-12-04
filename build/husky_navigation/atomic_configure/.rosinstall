@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dell/catkin_ws_cb/devel/.private/husky_navigation/setup.sh

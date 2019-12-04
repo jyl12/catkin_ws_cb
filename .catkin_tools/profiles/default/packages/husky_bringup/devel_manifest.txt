@@ -1,0 +1,6 @@
+husky/husky_bringup
+/home/dell/catkin_ws_cb/devel/.private/husky_bringup/cmake.lock /home/dell/catkin_ws_cb/devel/./cmake.lock
+/home/dell/catkin_ws_cb/devel/.private/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig.cmake /home/dell/catkin_ws_cb/devel/share/husky_bringup/cmake/husky_bringupConfig.cmake
+/home/dell/catkin_ws_cb/devel/.private/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig-version.cmake /home/dell/catkin_ws_cb/devel/share/husky_bringup/cmake/husky_bringupConfig-version.cmake
+/home/dell/catkin_ws_cb/devel/.private/husky_bringup/lib/pkgconfig/husky_bringup.pc /home/dell/catkin_ws_cb/devel/lib/pkgconfig/husky_bringup.pc
+/home/dell/catkin_ws_cb/devel/.private/husky_bringup/etc/catkin/profile.d/50.husky_find_mag_config.sh /home/dell/catkin_ws_cb/devel/etc/catkin/profile.d/50.husky_find_mag_config.sh

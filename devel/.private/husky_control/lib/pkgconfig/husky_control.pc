@@ -1,0 +1,8 @@
+prefix=/home/dell/catkin_ws_cb/devel/.private/husky_control
+
+Name: husky_control
+Description: Description of husky_control
+Version: 0.3.4
+Cflags: 
+Libs: -L/home/dell/catkin_ws_cb/devel/.private/husky_control/lib 
+Requires: 

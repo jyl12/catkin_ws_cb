@@ -1,0 +1,1 @@
+/home/dell/catkin_ws_cb/devel/.private/husky_base/lib/pkgconfig/husky_base.pc

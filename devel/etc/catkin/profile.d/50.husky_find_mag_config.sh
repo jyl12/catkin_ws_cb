@@ -1,0 +1,1 @@
+/home/dell/catkin_ws_cb/devel/.private/husky_bringup/etc/catkin/profile.d/50.husky_find_mag_config.sh

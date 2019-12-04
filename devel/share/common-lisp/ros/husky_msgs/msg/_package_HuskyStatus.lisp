@@ -1,0 +1,1 @@
+/home/dell/catkin_ws_cb/devel/.private/husky_msgs/share/common-lisp/ros/husky_msgs/msg/_package_HuskyStatus.lisp

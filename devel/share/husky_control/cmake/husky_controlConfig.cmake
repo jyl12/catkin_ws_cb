@@ -1,0 +1,1 @@
+/home/dell/catkin_ws_cb/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig.cmake

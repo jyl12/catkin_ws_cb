@@ -1,0 +1,5 @@
+husky/husky_description
+/home/dell/catkin_ws_cb/devel/.private/husky_description/cmake.lock /home/dell/catkin_ws_cb/devel/./cmake.lock
+/home/dell/catkin_ws_cb/devel/.private/husky_description/share/husky_description/cmake/husky_descriptionConfig-version.cmake /home/dell/catkin_ws_cb/devel/share/husky_description/cmake/husky_descriptionConfig-version.cmake
+/home/dell/catkin_ws_cb/devel/.private/husky_description/share/husky_description/cmake/husky_descriptionConfig.cmake /home/dell/catkin_ws_cb/devel/share/husky_description/cmake/husky_descriptionConfig.cmake
+/home/dell/catkin_ws_cb/devel/.private/husky_description/lib/pkgconfig/husky_description.pc /home/dell/catkin_ws_cb/devel/lib/pkgconfig/husky_description.pc
