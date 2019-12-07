@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/dell/catkin_ws_cb/devel/.private/ros_package_template:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/dell/catkin_ws_cb/devel/.private/ros_package_template/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/dell/catkin_ws_cb/devel/.private/ros_package_template/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/dell/catkin_ws_cb/build/ros_package_template"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/dell/catkin_ws_cb/devel/.private/ros_package_template/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/dell/catkin_ws_cb/src/ros_best_practices/ros_package_template:$ROS_PACKAGE_PATH"

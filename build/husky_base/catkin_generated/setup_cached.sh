@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/dell/catkin_ws_cb/devel/.private/husky_base:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/dell/catkin_ws_cb/devel/.private/husky_base/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/dell/catkin_ws_cb/devel/.private/husky_base/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/dell/catkin_ws_cb/build/husky_base"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/dell/catkin_ws_cb/devel/.private/husky_base/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/dell/catkin_ws_cb/src/husky/husky_base:$ROS_PACKAGE_PATH"

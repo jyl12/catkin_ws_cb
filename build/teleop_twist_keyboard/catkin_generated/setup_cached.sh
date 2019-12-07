@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/dell/catkin_ws_cb/build/teleop_twist_keyboard"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/dell/catkin_ws_cb/src/teleop_twist_keyboard:$ROS_PACKAGE_PATH"
