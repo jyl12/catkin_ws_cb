@@ -1,8 +1,0 @@
-prefix=/home/dell/catkin_ws_cb/install
-
-Name: husky_viz
-Description: Description of husky_viz
-Version: 0.3.4
-Cflags: 
-Libs: -L/home/dell/catkin_ws_cb/install/lib 
-Requires: 

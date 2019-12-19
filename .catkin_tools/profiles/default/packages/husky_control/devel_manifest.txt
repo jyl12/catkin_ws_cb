@@ -1,5 +1,0 @@
-husky/husky_control
-/home/dell/catkin_ws_cb/devel/.private/husky_control/cmake.lock /home/dell/catkin_ws_cb/devel/./cmake.lock
-/home/dell/catkin_ws_cb/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake /home/dell/catkin_ws_cb/devel/share/husky_control/cmake/husky_controlConfig-version.cmake
-/home/dell/catkin_ws_cb/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig.cmake /home/dell/catkin_ws_cb/devel/share/husky_control/cmake/husky_controlConfig.cmake
-/home/dell/catkin_ws_cb/devel/.private/husky_control/lib/pkgconfig/husky_control.pc /home/dell/catkin_ws_cb/devel/lib/pkgconfig/husky_control.pc

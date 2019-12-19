@@ -1,1 +1,0 @@
-/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/lib/pkgconfig/teleop_twist_keyboard.pc

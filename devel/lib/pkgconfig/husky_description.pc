@@ -1,1 +1,0 @@
-/home/dell/catkin_ws_cb/devel/.private/husky_description/lib/pkgconfig/husky_description.pc

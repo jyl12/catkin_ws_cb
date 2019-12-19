@@ -1,1 +1,0 @@
-/home/dell/catkin_ws_cb/devel/.private/husky_navigation/lib/pkgconfig/husky_navigation.pc

@@ -1,5 +1,0 @@
-teleop_twist_keyboard
-/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/cmake.lock /home/dell/catkin_ws_cb/devel/./cmake.lock
-/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig.cmake /home/dell/catkin_ws_cb/devel/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig.cmake
-/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig-version.cmake /home/dell/catkin_ws_cb/devel/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig-version.cmake
-/home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/lib/pkgconfig/teleop_twist_keyboard.pc /home/dell/catkin_ws_cb/devel/lib/pkgconfig/teleop_twist_keyboard.pc

@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/dell/catkin_ws_cb/devel/.private/teleop_twist_keyboard/setup.sh

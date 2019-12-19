@@ -6,5 +6,5 @@
 		<arg name="world_name" value="/usr/share/gazebo-9/$(arg world_name)"/>
 	</include>
 
-	<node name="teleop" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py"  output="screen"/>
+        <node name="teleop" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py"  output="screen"/>
 </launch>

@@ -1,8 +1,0 @@
-prefix=/home/dell/catkin_ws_cb/devel/.private/husky_description
-
-Name: husky_description
-Description: Description of husky_description
-Version: 0.3.4
-Cflags: 
-Libs: -L/home/dell/catkin_ws_cb/devel/.private/husky_description/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/dell/catkin_ws_cb/install
-
-Name: husky_msgs
-Description: Description of husky_msgs
-Version: 0.3.4
-Cflags: -I/home/dell/catkin_ws_cb/install/include
-Libs: -L/home/dell/catkin_ws_cb/install/lib 
-Requires: std_msgs message_runtime

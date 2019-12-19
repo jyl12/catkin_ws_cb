@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.9.2, 2019-12-07T16:46:56. -->
+<!-- Written by QtCreator 4.9.2, 2019-12-19T22:48:12. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -111,22 +111,22 @@
     <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
     <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges">
-     <value type="QString">CMAKE_PREFIX_PATH=/home/dell/catkin_ws/devel:/opt/ros/melodic:/home/dell/catkin_ws_cb/devel</value>
-     <value type="QString">HUSKY_MAG_CONFIG=/home/dell/catkin_ws/src/husky/husky_bringup/config/mag_config_default.yaml</value>
-     <value type="QString">LD_LIBRARY_PATH=/home/dell/catkin_ws/devel/lib:/opt/ros/melodic/lib:/home/dell/catkin_ws_cb/devel/lib</value>
+     <value type="QString">CMAKE_PREFIX_PATH=/home/dell/catkin_ws_cb/devel:/opt/ros/melodic</value>
+     <value type="QString">HUSKY_MAG_CONFIG=/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_bringup/config/mag_config_default.yaml</value>
+     <value type="QString">LD_LIBRARY_PATH=/home/dell/catkin_ws_cb/devel/lib:/opt/ros/melodic/lib</value>
      <value type="QString">PATH=/opt/ros/melodic/bin:/home/dell/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin</value>
-     <value type="QString">PKG_CONFIG_PATH=/home/dell/catkin_ws/devel/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig:/home/dell/catkin_ws_cb/devel/lib/pkgconfig</value>
+     <value type="QString">PKG_CONFIG_PATH=/home/dell/catkin_ws_cb/devel/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig</value>
      <value type="QString">PWD=/home/dell/catkin_ws_cb</value>
-     <value type="QString">PYTHONPATH=/home/dell/catkin_ws/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages:/home/dell/catkin_ws_cb/devel/lib/python2.7/dist-packages</value>
-     <value type="QString">ROSLISP_PACKAGE_DIRECTORIES=/home/dell/catkin_ws/devel/share/common-lisp:/home/dell/catkin_ws_cb/devel/share/common-lisp</value>
+     <value type="QString">PYTHONPATH=/home/dell/catkin_ws_cb/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages</value>
+     <value type="QString">ROSLISP_PACKAGE_DIRECTORIES=/home/dell/catkin_ws_cb/devel/share/common-lisp</value>
      <value type="QString">ROS_DISTRO=melodic</value>
      <value type="QString">ROS_ETC_DIR=/opt/ros/melodic/etc/ros</value>
      <value type="QString">ROS_MASTER_URI=http://localhost:11311</value>
-     <value type="QString">ROS_PACKAGE_PATH=/home/dell/catkin_ws/src:/opt/ros/melodic/share:/home/dell/catkin_ws_cb/src/husky/husky_bringup:/home/dell/catkin_ws_cb/src/husky/husky_control:/home/dell/catkin_ws_cb/src/husky/husky_description:/home/dell/catkin_ws_cb/src/husky/husky_desktop:/home/dell/catkin_ws_cb/src/husky/husky_gazebo:/home/dell/catkin_ws_cb/src/husky/husky_msgs:/home/dell/catkin_ws_cb/src/husky/husky_base:/home/dell/catkin_ws_cb/src/husky/husky_navigation:/home/dell/catkin_ws_cb/src/husky/husky_robot:/home/dell/catkin_ws_cb/src/husky/husky_simulator:/home/dell/catkin_ws_cb/src/husky/husky_viz:/home/dell/catkin_ws_cb/src/ros_best_practices/ros_package_template:/home/dell/catkin_ws_cb/src/teleop_twist_keyboard</value>
+     <value type="QString">ROS_PACKAGE_PATH=/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_bringup:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_control:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_description:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_desktop:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_gazebo:/home/dell/catkin_ws_cb/src/Exercise2/husky_highlevel_controller:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_msgs:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_base:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_navigation:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_robot:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_simulator:/home/dell/catkin_ws_cb/src/Exercise1/husky/husky_viz:/home/dell/catkin_ws_cb/src/Exercise1/ros_best_practices/ros_package_template:/home/dell/catkin_ws_cb/src/Exercise1/teleop_twist_keyboard:/opt/ros/melodic/share</value>
      <value type="QString">ROS_PYTHON_VERSION=2</value>
      <value type="QString">ROS_ROOT=/opt/ros/melodic/share/ros</value>
      <value type="QString">ROS_VERSION=1</value>
-     <value type="QString">SHLVL=10</value>
+     <value type="QString">SHLVL=300</value>
      <value type="QString">TERM=xterm</value>
      <value type="QString">_=/usr/bin/env</value>
     </valuelist>
@@ -478,10 +478,10 @@
       <value type="QString" key="ROSProjectManager.ROSGenericStep.Arguments"></value>
       <value type="QString" key="ROSProjectManager.ROSGenericStep.Command">rosrun</value>
       <value type="bool" key="ROSProjectManager.ROSGenericStep.DebugContinueOnAttach">false</value>
-      <value type="QString" key="ROSProjectManager.ROSGenericStep.Package">teleop_twist_keyboard</value>
-      <value type="QString" key="ROSProjectManager.ROSGenericStep.PackagePath">/home/dell/catkin_ws_cb/src/teleop_twist_keyboard</value>
-      <value type="QString" key="ROSProjectManager.ROSGenericStep.Target"></value>
-      <value type="QString" key="ROSProjectManager.ROSGenericStep.TargetPath"></value>
+      <value type="QString" key="ROSProjectManager.ROSGenericStep.Package">subscriber</value>
+      <value type="QString" key="ROSProjectManager.ROSGenericStep.PackagePath">/home/dell/catkin_ws_cb/src/subscriber</value>
+      <value type="QString" key="ROSProjectManager.ROSGenericStep.Target">subscriber_node</value>
+      <value type="QString" key="ROSProjectManager.ROSGenericStep.TargetPath">/home/dell/catkin_ws_cb/devel/lib/subscriber/subscriber_node</value>
      </valuemap>
      <value type="int" key="ProjectExplorer.RunStepList.StepsCount">1</value>
     </valuemap>

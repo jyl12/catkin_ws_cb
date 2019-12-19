@@ -1,6 +1,0 @@
-devel_space: /home/dell/catkin_ws_cb/devel
-install: false
-install_space: /home/dell/catkin_ws_cb/install
-profile: default
-source_space: /home/dell/catkin_ws_cb/src
-workspace: /home/dell/catkin_ws_cb
